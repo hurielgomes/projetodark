@@ -1,0 +1,1002 @@
+{
+ "formato": "m1-recurso/1",
+ "id": "sala_mesa_madeira",
+ "tipo": "cenario",
+ "caixa": [
+  0.0,
+  0.0,
+  1920.0,
+  1080.0
+ ],
+ "nome": "Sala escura com mesa de madeira",
+ "tags": [
+  "sala",
+  "mesa",
+  "interior",
+  "noite",
+  "escura"
+ ],
+ "frente": "direita",
+ "camadas": [
+  {
+   "id": "base",
+   "k": 0.05,
+   "formas": [
+    {
+     "fill": "#ffd37a",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.1,
+     "t": "ellipse",
+     "cx": 1390.0,
+     "cy": 330.0,
+     "rx": 260.0,
+     "ry": 260.0
+    },
+    {
+     "fill": "#ffd37a",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.05,
+     "t": "ellipse",
+     "cx": 1390.0,
+     "cy": 330.0,
+     "rx": 377.0,
+     "ry": 377.0
+    },
+    {
+     "fill": "#ffd37a",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.033,
+     "t": "ellipse",
+     "cx": 1390.0,
+     "cy": 330.0,
+     "rx": 494.0,
+     "ry": 494.0
+    }
+   ]
+  },
+  {
+   "id": "ceu",
+   "k": 0.267,
+   "formas": [
+    {
+     "fill": {
+      "g": [
+       [
+        0.0,
+        "#070b24"
+       ],
+       [
+        1.0,
+        "#1b2a5c"
+       ]
+      ],
+      "dir": "v"
+     },
+     "stroke": null,
+     "sw": 0.0,
+     "op": 1.0,
+     "t": "rect",
+     "x": 0.0,
+     "y": 0.0,
+     "w": 1920.0,
+     "h": 1080.0,
+     "r": 0.0
+    },
+    {
+     "fill": "#ffffff",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.76,
+     "t": "ellipse",
+     "cx": 1855.0,
+     "cy": 222.0,
+     "rx": 2.5,
+     "ry": 2.5
+    },
+    {
+     "fill": "#ffffff",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.59,
+     "t": "ellipse",
+     "cx": 689.0,
+     "cy": 265.0,
+     "rx": 2.0,
+     "ry": 2.0
+    },
+    {
+     "fill": "#ffffff",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.46,
+     "t": "ellipse",
+     "cx": 312.0,
+     "cy": 460.0,
+     "rx": 1.5,
+     "ry": 1.5
+    },
+    {
+     "fill": "#ffffff",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.48,
+     "t": "ellipse",
+     "cx": 1756.0,
+     "cy": 377.0,
+     "rx": 2.5,
+     "ry": 2.5
+    },
+    {
+     "fill": "#ffffff",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.73,
+     "t": "ellipse",
+     "cx": 80.0,
+     "cy": 47.0,
+     "rx": 2.5,
+     "ry": 2.5
+    },
+    {
+     "fill": "#ffffff",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.55,
+     "t": "ellipse",
+     "cx": 309.0,
+     "cy": 114.0,
+     "rx": 2.0,
+     "ry": 2.0
+    },
+    {
+     "fill": "#ffffff",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.76,
+     "t": "ellipse",
+     "cx": 112.0,
+     "cy": 223.0,
+     "rx": 1.5,
+     "ry": 1.5
+    },
+    {
+     "fill": "#ffffff",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.76,
+     "t": "ellipse",
+     "cx": 1852.0,
+     "cy": 450.0,
+     "rx": 2.0,
+     "ry": 2.0
+    },
+    {
+     "fill": "#ffffff",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.46,
+     "t": "ellipse",
+     "cx": 1010.0,
+     "cy": 361.0,
+     "rx": 1.5,
+     "ry": 1.5
+    },
+    {
+     "fill": "#ffffff",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.47,
+     "t": "ellipse",
+     "cx": 1116.0,
+     "cy": 179.0,
+     "rx": 1.5,
+     "ry": 1.5
+    },
+    {
+     "fill": "#ffffff",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.84,
+     "t": "ellipse",
+     "cx": 1316.0,
+     "cy": 110.0,
+     "rx": 2.0,
+     "ry": 2.0
+    },
+    {
+     "fill": "#ffffff",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.78,
+     "t": "ellipse",
+     "cx": 1155.0,
+     "cy": 211.0,
+     "rx": 2.5,
+     "ry": 2.5
+    },
+    {
+     "fill": "#ffffff",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.37,
+     "t": "ellipse",
+     "cx": 810.0,
+     "cy": 477.0,
+     "rx": 2.0,
+     "ry": 2.0
+    },
+    {
+     "fill": "#ffffff",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.4,
+     "t": "ellipse",
+     "cx": 47.0,
+     "cy": 184.0,
+     "rx": 2.5,
+     "ry": 2.5
+    },
+    {
+     "fill": "#ffffff",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.33,
+     "t": "ellipse",
+     "cx": 1886.0,
+     "cy": 293.0,
+     "rx": 2.5,
+     "ry": 2.5
+    },
+    {
+     "fill": "#ffffff",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.51,
+     "t": "ellipse",
+     "cx": 1864.0,
+     "cy": 466.0,
+     "rx": 2.5,
+     "ry": 2.5
+    },
+    {
+     "fill": "#ffffff",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.69,
+     "t": "ellipse",
+     "cx": 64.0,
+     "cy": 435.0,
+     "rx": 1.5,
+     "ry": 1.5
+    },
+    {
+     "fill": "#ffffff",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.37,
+     "t": "ellipse",
+     "cx": 470.0,
+     "cy": 222.0,
+     "rx": 2.5,
+     "ry": 2.5
+    },
+    {
+     "fill": "#ffffff",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.65,
+     "t": "ellipse",
+     "cx": 606.0,
+     "cy": 257.0,
+     "rx": 2.5,
+     "ry": 2.5
+    },
+    {
+     "fill": "#ffffff",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.62,
+     "t": "ellipse",
+     "cx": 310.0,
+     "cy": 201.0,
+     "rx": 2.5,
+     "ry": 2.5
+    },
+    {
+     "fill": "#ffffff",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.8,
+     "t": "ellipse",
+     "cx": 706.0,
+     "cy": 28.0,
+     "rx": 1.5,
+     "ry": 1.5
+    },
+    {
+     "fill": "#ffffff",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.66,
+     "t": "ellipse",
+     "cx": 459.0,
+     "cy": 211.0,
+     "rx": 2.5,
+     "ry": 2.5
+    },
+    {
+     "fill": "#ffffff",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.88,
+     "t": "ellipse",
+     "cx": 901.0,
+     "cy": 84.0,
+     "rx": 2.5,
+     "ry": 2.5
+    },
+    {
+     "fill": "#ffffff",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.63,
+     "t": "ellipse",
+     "cx": 12.0,
+     "cy": 84.0,
+     "rx": 2.5,
+     "ry": 2.5
+    },
+    {
+     "fill": "#ffffff",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.68,
+     "t": "ellipse",
+     "cx": 1431.0,
+     "cy": 168.0,
+     "rx": 1.5,
+     "ry": 1.5
+    },
+    {
+     "fill": "#ffffff",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.34,
+     "t": "ellipse",
+     "cx": 1803.0,
+     "cy": 314.0,
+     "rx": 2.5,
+     "ry": 2.5
+    },
+    {
+     "fill": "#ffffff",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.7,
+     "t": "ellipse",
+     "cx": 1137.0,
+     "cy": 456.0,
+     "rx": 2.5,
+     "ry": 2.5
+    },
+    {
+     "fill": "#ffffff",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.89,
+     "t": "ellipse",
+     "cx": 150.0,
+     "cy": 111.0,
+     "rx": 1.5,
+     "ry": 1.5
+    },
+    {
+     "fill": "#ffffff",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.73,
+     "t": "ellipse",
+     "cx": 1301.0,
+     "cy": 352.0,
+     "rx": 2.5,
+     "ry": 2.5
+    },
+    {
+     "fill": "#ffffff",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.7,
+     "t": "ellipse",
+     "cx": 30.0,
+     "cy": 294.0,
+     "rx": 2.0,
+     "ry": 2.0
+    },
+    {
+     "fill": "#ffffff",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.41,
+     "t": "ellipse",
+     "cx": 658.0,
+     "cy": 65.0,
+     "rx": 2.0,
+     "ry": 2.0
+    },
+    {
+     "fill": "#ffffff",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.38,
+     "t": "ellipse",
+     "cx": 1485.0,
+     "cy": 39.0,
+     "rx": 2.0,
+     "ry": 2.0
+    },
+    {
+     "fill": "#ffffff",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.64,
+     "t": "ellipse",
+     "cx": 1720.0,
+     "cy": 285.0,
+     "rx": 1.5,
+     "ry": 1.5
+    },
+    {
+     "fill": "#ffffff",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.48,
+     "t": "ellipse",
+     "cx": 1835.0,
+     "cy": 423.0,
+     "rx": 2.5,
+     "ry": 2.5
+    },
+    {
+     "fill": "#ffffff",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.79,
+     "t": "ellipse",
+     "cx": 1851.0,
+     "cy": 238.0,
+     "rx": 1.5,
+     "ry": 1.5
+    },
+    {
+     "fill": "#ffffff",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.69,
+     "t": "ellipse",
+     "cx": 1573.0,
+     "cy": 338.0,
+     "rx": 2.5,
+     "ry": 2.5
+    },
+    {
+     "fill": "#ffffff",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.34,
+     "t": "ellipse",
+     "cx": 221.0,
+     "cy": 120.0,
+     "rx": 2.0,
+     "ry": 2.0
+    },
+    {
+     "fill": "#ffffff",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.44,
+     "t": "ellipse",
+     "cx": 940.0,
+     "cy": 489.0,
+     "rx": 2.0,
+     "ry": 2.0
+    },
+    {
+     "fill": "#ffffff",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.51,
+     "t": "ellipse",
+     "cx": 479.0,
+     "cy": 501.0,
+     "rx": 2.5,
+     "ry": 2.5
+    },
+    {
+     "fill": "#ffffff",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.45,
+     "t": "ellipse",
+     "cx": 121.0,
+     "cy": 457.0,
+     "rx": 2.0,
+     "ry": 2.0
+    },
+    {
+     "fill": "#ffffff",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.89,
+     "t": "ellipse",
+     "cx": 998.0,
+     "cy": 15.0,
+     "rx": 2.0,
+     "ry": 2.0
+    },
+    {
+     "fill": "#ffffff",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.44,
+     "t": "ellipse",
+     "cx": 1194.0,
+     "cy": 284.0,
+     "rx": 1.5,
+     "ry": 1.5
+    },
+    {
+     "fill": "#ffffff",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.36,
+     "t": "ellipse",
+     "cx": 1292.0,
+     "cy": 337.0,
+     "rx": 1.5,
+     "ry": 1.5
+    },
+    {
+     "fill": "#ffffff",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.64,
+     "t": "ellipse",
+     "cx": 657.0,
+     "cy": 377.0,
+     "rx": 2.5,
+     "ry": 2.5
+    },
+    {
+     "fill": "#ffffff",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.6,
+     "t": "ellipse",
+     "cx": 568.0,
+     "cy": 291.0,
+     "rx": 2.0,
+     "ry": 2.0
+    },
+    {
+     "fill": "#ffffff",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.67,
+     "t": "ellipse",
+     "cx": 592.0,
+     "cy": 367.0,
+     "rx": 2.0,
+     "ry": 2.0
+    },
+    {
+     "fill": "#ffffff",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.32,
+     "t": "ellipse",
+     "cx": 1861.0,
+     "cy": 309.0,
+     "rx": 2.0,
+     "ry": 2.0
+    },
+    {
+     "fill": "#ffffff",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.58,
+     "t": "ellipse",
+     "cx": 668.0,
+     "cy": 274.0,
+     "rx": 2.5,
+     "ry": 2.5
+    },
+    {
+     "fill": "#ffffff",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.68,
+     "t": "ellipse",
+     "cx": 1907.0,
+     "cy": 100.0,
+     "rx": 2.0,
+     "ry": 2.0
+    },
+    {
+     "fill": "#ffffff",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.83,
+     "t": "ellipse",
+     "cx": 1474.0,
+     "cy": 200.0,
+     "rx": 2.5,
+     "ry": 2.5
+    },
+    {
+     "fill": "#ffffff",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.85,
+     "t": "ellipse",
+     "cx": 1151.0,
+     "cy": 511.0,
+     "rx": 2.0,
+     "ry": 2.0
+    },
+    {
+     "fill": "#ffffff",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.69,
+     "t": "ellipse",
+     "cx": 10.0,
+     "cy": 32.0,
+     "rx": 2.0,
+     "ry": 2.0
+    },
+    {
+     "fill": "#ffffff",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.66,
+     "t": "ellipse",
+     "cx": 1037.0,
+     "cy": 33.0,
+     "rx": 2.0,
+     "ry": 2.0
+    },
+    {
+     "fill": "#ffffff",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.54,
+     "t": "ellipse",
+     "cx": 739.0,
+     "cy": 413.0,
+     "rx": 2.5,
+     "ry": 2.5
+    },
+    {
+     "fill": "#ffffff",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.41,
+     "t": "ellipse",
+     "cx": 1592.0,
+     "cy": 369.0,
+     "rx": 2.0,
+     "ry": 2.0
+    },
+    {
+     "fill": "#ffffff",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.44,
+     "t": "ellipse",
+     "cx": 1373.0,
+     "cy": 76.0,
+     "rx": 1.5,
+     "ry": 1.5
+    },
+    {
+     "fill": "#ffffff",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.38,
+     "t": "ellipse",
+     "cx": 1635.0,
+     "cy": 267.0,
+     "rx": 2.5,
+     "ry": 2.5
+    },
+    {
+     "fill": "#ffffff",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.61,
+     "t": "ellipse",
+     "cx": 921.0,
+     "cy": 221.0,
+     "rx": 1.5,
+     "ry": 1.5
+    },
+    {
+     "fill": "#ffffff",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.47,
+     "t": "ellipse",
+     "cx": 402.0,
+     "cy": 158.0,
+     "rx": 1.5,
+     "ry": 1.5
+    },
+    {
+     "fill": "#ffffff",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.46,
+     "t": "ellipse",
+     "cx": 1021.0,
+     "cy": 471.0,
+     "rx": 1.5,
+     "ry": 1.5
+    },
+    {
+     "fill": "#ffffff",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.41,
+     "t": "ellipse",
+     "cx": 390.0,
+     "cy": 115.0,
+     "rx": 2.0,
+     "ry": 2.0
+    },
+    {
+     "fill": "#ffffff",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.36,
+     "t": "ellipse",
+     "cx": 1216.0,
+     "cy": 249.0,
+     "rx": 1.5,
+     "ry": 1.5
+    },
+    {
+     "fill": "#ffffff",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.85,
+     "t": "ellipse",
+     "cx": 25.0,
+     "cy": 185.0,
+     "rx": 2.0,
+     "ry": 2.0
+    },
+    {
+     "fill": "#ffffff",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.86,
+     "t": "ellipse",
+     "cx": 1131.0,
+     "cy": 195.0,
+     "rx": 2.0,
+     "ry": 2.0
+    },
+    {
+     "fill": "#ffffff",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.9,
+     "t": "ellipse",
+     "cx": 234.0,
+     "cy": 203.0,
+     "rx": 2.0,
+     "ry": 2.0
+    },
+    {
+     "fill": "#ffffff",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.88,
+     "t": "ellipse",
+     "cx": 410.0,
+     "cy": 479.0,
+     "rx": 2.5,
+     "ry": 2.5
+    },
+    {
+     "fill": "#ffffff",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.31,
+     "t": "ellipse",
+     "cx": 1919.0,
+     "cy": 446.0,
+     "rx": 1.5,
+     "ry": 1.5
+    },
+    {
+     "fill": "#ffffff",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.76,
+     "t": "ellipse",
+     "cx": 751.0,
+     "cy": 349.0,
+     "rx": 2.0,
+     "ry": 2.0
+    },
+    {
+     "fill": "#ffffff",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.6,
+     "t": "ellipse",
+     "cx": 577.0,
+     "cy": 378.0,
+     "rx": 1.5,
+     "ry": 1.5
+    },
+    {
+     "fill": "#ffffff",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.77,
+     "t": "ellipse",
+     "cx": 27.0,
+     "cy": 232.0,
+     "rx": 2.0,
+     "ry": 2.0
+    },
+    {
+     "fill": "#f2f0e0",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.92,
+     "t": "ellipse",
+     "cx": 1622.0,
+     "cy": 206.0,
+     "rx": 62.0,
+     "ry": 62.0
+    },
+    {
+     "fill": "#cfd8ff",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.1,
+     "t": "ellipse",
+     "cx": 1500.0,
+     "cy": 170.0,
+     "rx": 90.0,
+     "ry": 90.0
+    },
+    {
+     "fill": "#cfd8ff",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.05,
+     "t": "ellipse",
+     "cx": 1500.0,
+     "cy": 170.0,
+     "rx": 130.0,
+     "ry": 130.0
+    },
+    {
+     "fill": "#cfd8ff",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.033,
+     "t": "ellipse",
+     "cx": 1500.0,
+     "cy": 170.0,
+     "rx": 171.0,
+     "ry": 171.0
+    }
+   ]
+  },
+  {
+   "id": "parede",
+   "k": 0.483,
+   "formas": [
+    {
+     "fill": "#1b2a5c",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.9,
+     "t": "rect",
+     "x": 0.0,
+     "y": 0.0,
+     "w": 1920.0,
+     "h": 760.0,
+     "r": 0.0
+    },
+    {
+     "fill": "#070b24",
+     "stroke": "#0a0c14",
+     "sw": 14.0,
+     "op": 1.0,
+     "t": "rect",
+     "x": 1180.0,
+     "y": 150.0,
+     "w": 420.0,
+     "h": 360.0,
+     "r": 10.0
+    },
+    {
+     "fill": "#0a0c14",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 1.0,
+     "t": "rect",
+     "x": 1384.0,
+     "y": 150.0,
+     "w": 12.0,
+     "h": 360.0,
+     "r": 0.0
+    },
+    {
+     "fill": "#0a0c14",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 1.0,
+     "t": "rect",
+     "x": 1180.0,
+     "y": 324.0,
+     "w": 420.0,
+     "h": 12.0,
+     "r": 0.0
+    }
+   ]
+  },
+  {
+   "id": "piso",
+   "k": 0.7,
+   "formas": [
+    {
+     "fill": {
+      "g": [
+       [
+        0.0,
+        "#2a2f44"
+       ],
+       [
+        1.0,
+        "#0b0d16"
+       ]
+      ],
+      "dir": "v"
+     },
+     "stroke": null,
+     "sw": 0.0,
+     "op": 1.0,
+     "t": "rect",
+     "x": 0.0,
+     "y": 760.0,
+     "w": 1920.0,
+     "h": 320.0,
+     "r": 0.0
+    },
+    {
+     "fill": "#000",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.4,
+     "t": "rect",
+     "x": 0.0,
+     "y": 756.0,
+     "w": 1920.0,
+     "h": 10.0,
+     "r": 0.0
+    }
+   ]
+  }
+ ],
+ "origem": "procedural"
+}

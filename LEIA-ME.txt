@@ -1,0 +1,25 @@
+CORRECAO M1 - PARAMETRO chat_scope
+
+CAUSA
+O criar_cenas2d.py instalado chama diretor_m1.dirigir(..., chat_scope=...).
+O diretor_m1.py carregado na sua instalacao e uma versao antiga cuja funcao
+dirigir() nao declara esse parametro.
+
+INSTALACAO
+1. Feche a Fabrica completamente (feche a janela preta do iniciar.bat).
+2. Extraia este ZIP diretamente em C:\ProjetoDark2.
+3. Confirme que o arquivo foi substituido em C:\ProjetoDark2\diretor_m1.py.
+4. Execute C:\ProjetoDark2\verificar_chat_scope.bat.
+5. O resultado esperado e:
+   OK: diretor_m1 aceita chat_scope e esta pronto para o MyHub Bridge.
+6. So depois execute iniciar.bat novamente.
+
+IMPORTANTE
+- Este patch substitui somente diretor_m1.py e adiciona dois arquivos de verificacao.
+- Nao altera config.json, .env, Bridge, banco, biblioteca ou outros motores.
+- O diretor incluido e a versao compativel com MyHub Bridge e com a protecao
+  de kit didatico opcional (garantir_kit).
+
+Se o verificador mostrar outro caminho para diretor_m1.py, ha outra copia da
+Fabrica sendo iniciada. Nesse caso, use o caminho exibido no resultado e
+substitua o diretor_m1.py daquela pasta, nao de uma pasta diferente.

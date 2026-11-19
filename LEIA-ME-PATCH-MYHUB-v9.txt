@@ -1,0 +1,20 @@
+PATCH MYHUB + M1 v9 — COMPATIBILIDADE RIG E CONTROLE DE RETENTATIVAS
+
+Problemas tratados:
+1. Compatibilidade entre versões do Rig: o construtor agora aceita o metadado opcional `origem` sem alterar a geometria do recurso.
+2. O recurso geométrico SVG não carrega mais `origem` como campo de desenho. A procedência continua sendo gravada no índice da Biblioteca pelo registro do recurso.
+3. Se um lote retornar ZERO SVGs válidos, a Fábrica não dispara automaticamente duas chamadas individuais adicionais. Registra o diagnóstico e usa o fallback procedural para os itens daquele lote.
+4. Se o lote entregar pelo menos um SVG válido, somente o item ausente/inválido recebe uma tentativa individual única.
+
+INSTALAÇÃO
+1. Feche a Fábrica e qualquer processo do Bridge iniciado por ela.
+2. Extraia o conteúdo deste ZIP em C:\ProjetoDark2, mantendo a estrutura de pastas.
+3. Substitua somente:
+   - recursos_ia.py
+   - estudio\estudio\cenas2d\rig.py
+4. Não substitua config.json, .env, banco, biblioteca M1 ou perfil do Chromium.
+5. Execute verificar_myhub_v9.bat.
+6. Se todos os testes passarem, inicie a Fábrica normalmente.
+
+OBSERVAÇÃO
+O patch corrige o erro `Rig.__init__() got an unexpected keyword argument 'origem'` por compatibilidade e remove retentativas individuais quando um lote inteiro não entrega anexos. Se a exceção continuar, a saída do verificador mostrará o caminho exato do módulo Rig que o Python está importando; nesse caso a instalação está carregando outra cópia do pacote.

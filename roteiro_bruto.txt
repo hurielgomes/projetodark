@@ -1,0 +1,146 @@
+{
+  "ganchos_candidatos": [
+    {
+      "texto": "Por que achar ouro no seu próprio quintal pode te transformar em criminoso?",
+      "avaliacao": {
+        "curiosidade": "5",
+        "clareza": "5",
+        "surpresa": "5",
+        "retencao": "5",
+        "relacao_com_tema": "5"
+      },
+      "justificativa": "Gera um forte paradoxo entre encontrar algo valioso e ser punido por isso, capturando atenção imediata sem dar spoiler da legislação."
+    },
+    {
+      "texto": "Se você encontrar barras de ouro sob sua casa, elas não pertencem a você.",
+      "avaliacao": {
+        "curiosidade": "4",
+        "clareza": "5",
+        "surpresa": "4",
+        "retencao": "4",
+        "relacao_com_tema": "5"
+      },
+      "justificativa": "Contradiz o senso comum sobre propriedade, mas antecipa parte do fato narrativo."
+    },
+    {
+      "texto": "O que aconteceria se você descobrisse uma mina de ouro no seu quintal?",
+      "avaliacao": {
+        "curiosidade": "4",
+        "clareza": "5",
+        "surpresa": "3",
+        "retencao": "4",
+        "relacao_com_tema": "5"
+      },
+      "justificativa": "É uma pergunta direta eficaz, porém mais previsível e menos impactante do que o conflito legal."
+    },
+    {
+      "texto": "Três metros abaixo da sua casa existe uma fortuna que você é proibido de tocar.",
+      "avaliacao": {
+        "curiosidade": "4",
+        "clareza": "4",
+        "surpresa": "4",
+        "retencao": "4",
+        "relacao_com_tema": "4"
+      },
+      "justificativa": "Cria um mistério instigante, mas a afirmação pode soar excessivamente genérica."
+    },
+    {
+      "texto": "De quem é a riqueza escondida exatamente debaixo do chão da sua sala?",
+      "avaliacao": {
+        "curiosidade": "4",
+        "clareza": "4",
+        "surpresa": "3",
+        "retencao": "4",
+        "relacao_com_tema": "4"
+      },
+      "justificativa": "Pergunta enigmática boa, mas menos específica quanto à consequência do ouro."
+    
+  ],
+  "gancho_escolhido": {
+    "texto": "Por que achar ouro no seu próprio quintal pode te transformar em criminoso?",
+    "justificativa": "Foi o candidato com maior nota geral por instigar curiosidade máxima mediante a contradição entre achar uma fortuna e cometer um crime."
+  },
+  "titulo": "E Se Você Encontrasse Uma Mina de Ouro em Casa?",
+  "titulos_alternativos": [
+    "O Ouro Achado No Seu Quintal É Realmente Seu?",
+    "O Que Acontece Se Você Achar Ouro Na Sua Casa?"
+  ],
+  "gancho_texto": "Ouro no quintal é crime?",
+  "descricao": "Descubra o que a legislação brasileira determina caso você encontre riquezas minerais no subsolo da sua própria casa. Entenda a diferença entre posse da terra e propriedade dos recursos minerais segundo a União. Esclareça os riscos da exploração ilegal e como funciona a concessão oficial.",
+  "tags": [
+    "curiosidades",
+    "e se",
+    "mina de ouro",
+    "direitos minerais",
+    "legislacao brasileira",
+    "garimpo legal",
+    "anm",
+    "propriedade privada",
+    "ciência e lei"
+  ],
+  "texto_miniatura": "OURO EM CASA?",
+  "pergunta_final": "Diante disso, você notificaria o governo para minerar legalmente ou deixaria o ouro enterrado?",
+  "prompt_miniatura": "Close-up shot of a glowing raw gold nugget embedded in rich dark dirt inside a suburban garden, dramatic golden hour sunlight, high contrast, vibrant green grass around, empty space on the left side",
+  "cenas": [
+    {
+      "narracao": "Por que achar ouro no seu próprio quintal pode te transformar em criminoso?",
+      "imagem": "Extreme close-up shot, a dirty human hand holding a shiny raw gold nugget freshly pulled from dark soil, dramatic sunlight, high contrast.",
+      "busca_stock": "gold nugget soil"
+    },
+    {
+      "narracao": "Uma descoberta brilhante sob o jardim parece o bilhete para a riqueza instantânea.",
+      "imagem": "Low angle shot, a suburban backyard shovel striking a glowing yellow mineral underground, warm evening lighting.",
+      "busca_stock": "digging garden shovel"
+    },
+    {
+      "narracao": "Mas surge a primeira dúvida: o ouro achado no terreno é realmente seu?",
+      "imagem": "Dutch angle shot, a homeowner looking down into a deep hole in the grass with a confused expression, shaded backyard setting.",
+      "busca_stock": "man looking down hole"
+    },
+    {
+      "narracao": "O terreno é seu, mas a Constituição determina que minérios pertencem à União.",
+      "imagem": "Aerial wide shot, a small residential house highlighted while deep underground veins of gold glow brightly, cinematic blue and gold tones.",
+      "busca_stock": "subterranean gold vein house"
+    },
+    {
+      "narracao": "Por lei, você é obrigado a notificar o governo sobre qualquer achado mineral.",
+      "imagem": "Macro shot, an official stamp pressing onto a formal document on a polished wooden desk, sharp focus, gold emblem details.",
+      "busca_stock": "legal document stamp"
+    },
+    {
+      "narracao": "Então surge a tentação: posso começar a escavar e vender tudo amanhã?",
+      "imagem": "Silhouette shot, a person filling a wooden crate with raw gold nuggets inside a dim garage, high contrast yellow light.",
+      "busca_stock": "hiding gold garage"
+    },
+    {
+      "narracao": "Não, pois minerar sem concessão oficial configura crime federal de usurpação de patrimônio.",
+      "imagem": "Over-the-shoulder shot, iron police handcuffs resting next to raw gold rocks on a dark metal surface, moody shadows.",
+      "busca_stock": "handcuffs gold legal crime"
+    },
+    {
+      "narracao": "Afinal, quem é que autoriza a extração legal de ouro no Brasil?",
+      "imagem": "Low angle shot, a modern glass government skyscraper reflecting bright sunlight against a clear sky.",
+      "busca_stock": "government building architecture"
+    },
+    {
+      "narracao": "A Agência Nacional de Mineração regula tudo, mas quanto dinheiro o descobridor realmente recebe?",
+      "imagem": "Wide shot, heavy mining machinery operating in an organized open-pit mine, vibrant yellow dust and bright blue sky.",
+      "busca_stock": "mining machinery operation"
+    },
+    {
+      "narracao": "Como proprietário do solo, você tem direito a uma participação nos lucros da extração.",
+      "imagem": "Macro shot, shiny gold coins stacking neatly beside legal property deeds, glowing warm light, bokeh background.",
+      "busca_stock": "gold coins money legal"
+    },
+    {
+      "narracao": "O processo é burocrático e transforma seu quintal em uma área de mineração oficial.",
+      "imagem": "Aerial view, industrial yellow hazard tape surrounding a suburban lawn, contrast between green grass and yellow tape.",
+      "busca_stock": "suburban lawn mining tape"
+    },
+    {
+      "narracao": "Diante disso, você notificaria o governo para minerar legalmente ou deixaria o ouro enterrado?",
+      "imagem": "Dutch angle shot, a shiny gold nugget remaining buried underneath green turf, split screen underground view, mysterious atmosphere.",
+      "busca_stock": "buried gold soil yard"
+    }
+  ]
+}

@@ -1,0 +1,243 @@
+{
+ "formato": "m1-recurso/1",
+ "id": "quintal_residencial",
+ "tipo": "cenario",
+ "caixa": [
+  0.0,
+  0.0,
+  1920.0,
+  1080.0
+ ],
+ "nome": "Quintal residencial com gramado recém-cavado",
+ "tags": [
+  "quintal",
+  "casa",
+  "gramado",
+  "ouro",
+  "residencial"
+ ],
+ "frente": "direita",
+ "camadas": [
+  {
+   "id": "base",
+   "k": 0.05,
+   "formas": [
+    {
+     "fill": "#fff3c4",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.1,
+     "t": "ellipse",
+     "cx": 1390.0,
+     "cy": 330.0,
+     "rx": 260.0,
+     "ry": 260.0
+    },
+    {
+     "fill": "#fff3c4",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.05,
+     "t": "ellipse",
+     "cx": 1390.0,
+     "cy": 330.0,
+     "rx": 377.0,
+     "ry": 377.0
+    },
+    {
+     "fill": "#fff3c4",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.033,
+     "t": "ellipse",
+     "cx": 1390.0,
+     "cy": 330.0,
+     "rx": 494.0,
+     "ry": 494.0
+    }
+   ]
+  },
+  {
+   "id": "ceu",
+   "k": 0.267,
+   "formas": [
+    {
+     "fill": {
+      "g": [
+       [
+        0.0,
+        "#4a90e2"
+       ],
+       [
+        1.0,
+        "#bfe3ff"
+       ]
+      ],
+      "dir": "v"
+     },
+     "stroke": null,
+     "sw": 0.0,
+     "op": 1.0,
+     "t": "rect",
+     "x": 0.0,
+     "y": 0.0,
+     "w": 1920.0,
+     "h": 1080.0,
+     "r": 0.0
+    },
+    {
+     "fill": "#fff3b0",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.35,
+     "t": "ellipse",
+     "cx": 1500.0,
+     "cy": 170.0,
+     "rx": 70.0,
+     "ry": 70.0
+    },
+    {
+     "fill": "#fff3b0",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.175,
+     "t": "ellipse",
+     "cx": 1500.0,
+     "cy": 170.0,
+     "rx": 102.0,
+     "ry": 102.0
+    },
+    {
+     "fill": "#fff3b0",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.117,
+     "t": "ellipse",
+     "cx": 1500.0,
+     "cy": 170.0,
+     "rx": 133.0,
+     "ry": 133.0
+    },
+    {
+     "fill": "#fff3b0",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.087,
+     "t": "ellipse",
+     "cx": 1500.0,
+     "cy": 170.0,
+     "rx": 164.0,
+     "ry": 164.0
+    },
+    {
+     "fill": "#fff6c0",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 1.0,
+     "t": "ellipse",
+     "cx": 1500.0,
+     "cy": 170.0,
+     "rx": 62.0,
+     "ry": 62.0
+    }
+   ]
+  },
+  {
+   "id": "parede",
+   "k": 0.483,
+   "formas": [
+    {
+     "fill": "#bfe3ff",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.9,
+     "t": "rect",
+     "x": 0.0,
+     "y": 0.0,
+     "w": 1920.0,
+     "h": 760.0,
+     "r": 0.0
+    },
+    {
+     "fill": "#4a90e2",
+     "stroke": "#0a0c14",
+     "sw": 14.0,
+     "op": 1.0,
+     "t": "rect",
+     "x": 1180.0,
+     "y": 150.0,
+     "w": 420.0,
+     "h": 360.0,
+     "r": 10.0
+    },
+    {
+     "fill": "#0a0c14",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 1.0,
+     "t": "rect",
+     "x": 1384.0,
+     "y": 150.0,
+     "w": 12.0,
+     "h": 360.0,
+     "r": 0.0
+    },
+    {
+     "fill": "#0a0c14",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 1.0,
+     "t": "rect",
+     "x": 1180.0,
+     "y": 324.0,
+     "w": 420.0,
+     "h": 12.0,
+     "r": 0.0
+    }
+   ]
+  },
+  {
+   "id": "piso",
+   "k": 0.7,
+   "formas": [
+    {
+     "fill": {
+      "g": [
+       [
+        0.0,
+        "#2a2f44"
+       ],
+       [
+        1.0,
+        "#0b0d16"
+       ]
+      ],
+      "dir": "v"
+     },
+     "stroke": null,
+     "sw": 0.0,
+     "op": 1.0,
+     "t": "rect",
+     "x": 0.0,
+     "y": 760.0,
+     "w": 1920.0,
+     "h": 320.0,
+     "r": 0.0
+    },
+    {
+     "fill": "#000",
+     "stroke": null,
+     "sw": 0.0,
+     "op": 0.4,
+     "t": "rect",
+     "x": 0.0,
+     "y": 756.0,
+     "w": 1920.0,
+     "h": 10.0,
+     "r": 0.0
+    }
+   ]
+  }
+ ],
+ "origem": "procedural"
+}

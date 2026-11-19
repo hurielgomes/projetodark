@@ -1,0 +1,2696 @@
+{
+ "recursos": {
+  "homem": {
+   "arquivo": "recursos/personagem/homem.v1.json",
+   "tipo": "personagem",
+   "hash": "83fed7d7cb0da841",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "humano",
+    "adulto"
+   ],
+   "nome": "Homem de camisa azul",
+   "criado": "2026-11-15 17:57",
+   "animacoes": [
+    "acenar",
+    "apontar_controle",
+    "levantar",
+    "parado",
+    "sentado"
+   ],
+   "motivo": "",
+   "origem": "curado"
+  },
+  "sala_noite": {
+   "arquivo": "recursos/cenario/sala_noite.v1.json",
+   "tipo": "cenario",
+   "hash": "9a0e72a5dd28db85",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "interior",
+    "sala",
+    "noite"
+   ],
+   "nome": "Sala de estar a noite",
+   "criado": "2026-11-15 17:57",
+   "animacoes": [],
+   "motivo": "",
+   "origem": "curado"
+  },
+  "savana": {
+   "arquivo": "recursos/cenario/savana.v1.json",
+   "tipo": "cenario",
+   "hash": "4977f5d94682809a",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "natureza",
+    "savana",
+    "por-do-sol"
+   ],
+   "nome": "Savana ao entardecer",
+   "criado": "2026-11-15 17:57",
+   "animacoes": [],
+   "motivo": "",
+   "origem": "curado"
+  },
+  "sofa": {
+   "arquivo": "recursos/objeto/sofa.v1.json",
+   "tipo": "objeto",
+   "hash": "33effbaa041666c4",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "movel",
+    "sala"
+   ],
+   "nome": "Sofa lateral",
+   "criado": "2026-11-15 17:57",
+   "animacoes": [],
+   "motivo": "",
+   "origem": "curado"
+  },
+  "tigre": {
+   "arquivo": "recursos/personagem/tigre.v1.json",
+   "tipo": "personagem",
+   "hash": "58d38c6b6bb13019",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "animal",
+    "felino",
+    "extincao"
+   ],
+   "nome": "Tigre-de-bengala",
+   "criado": "2026-11-15 17:57",
+   "animacoes": [
+    "caminhar",
+    "parado",
+    "rugir"
+   ],
+   "motivo": "",
+   "origem": "curado"
+  },
+  "tv": {
+   "arquivo": "recursos/objeto/tv.v1.json",
+   "tipo": "objeto",
+   "hash": "4abd9ebdf01c8d75",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "eletronico",
+    "sala"
+   ],
+   "nome": "Televisao",
+   "criado": "2026-11-15 17:57",
+   "animacoes": [
+    "desligada",
+    "desligar",
+    "ligada",
+    "ligar"
+   ],
+   "motivo": "",
+   "origem": "curado"
+  },
+  "termometro": {
+   "arquivo": "recursos/objeto/termometro.v1.json",
+   "tipo": "objeto",
+   "hash": "87389596951fa21e",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "termometro",
+    "temperatura",
+    "calor",
+    "febre",
+    "aquecimento",
+    "esquenta"
+   ],
+   "nome": "Termometro",
+   "criado": "2026-11-18 09:08",
+   "animacoes": [
+    "balancar",
+    "descer",
+    "flutuar",
+    "parado",
+    "piscar",
+    "pulsar",
+    "subir",
+    "tremer"
+   ],
+   "motivo": "",
+   "origem": "curado"
+  },
+  "medidor": {
+   "arquivo": "recursos/objeto/medidor.v1.json",
+   "tipo": "objeto",
+   "hash": "af66c47e04fd73ab",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "medidor",
+    "risco",
+    "pressao",
+    "indice"
+   ],
+   "nome": "Medidor",
+   "criado": "2026-11-18 09:08",
+   "animacoes": [
+    "balancar",
+    "descer",
+    "flutuar",
+    "parado",
+    "piscar",
+    "pulsar",
+    "subir",
+    "tremer"
+   ],
+   "motivo": "",
+   "origem": "curado"
+  },
+  "relogio": {
+   "arquivo": "recursos/objeto/relogio.v1.json",
+   "tipo": "objeto",
+   "hash": "81dd7cf2ea7f34b7",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "relogio",
+    "cronometro",
+    "prazo",
+    "contagem"
+   ],
+   "nome": "Relogio",
+   "criado": "2026-11-18 09:08",
+   "animacoes": [
+    "balancar",
+    "flutuar",
+    "parado",
+    "passar",
+    "piscar",
+    "pulsar",
+    "tremer"
+   ],
+   "motivo": "",
+   "origem": "curado"
+  },
+  "barras_crescendo": {
+   "arquivo": "recursos/objeto/barras_crescendo.v1.json",
+   "tipo": "objeto",
+   "hash": "792c193959cecc56",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "barras",
+    "crescimento",
+    "aumento",
+    "cresce"
+   ],
+   "nome": "Barras crescendo",
+   "criado": "2026-11-18 09:08",
+   "animacoes": [
+    "balancar",
+    "crescer",
+    "flutuar",
+    "parado",
+    "piscar",
+    "pulsar",
+    "tremer"
+   ],
+   "motivo": "",
+   "origem": "curado"
+  },
+  "barras_caindo": {
+   "arquivo": "recursos/objeto/barras_caindo.v1.json",
+   "tipo": "objeto",
+   "hash": "379dd1d0d3e24549",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "barras",
+    "queda",
+    "colapso",
+    "desaba",
+    "despenca",
+    "perda"
+   ],
+   "nome": "Barras desabando",
+   "criado": "2026-11-18 09:08",
+   "animacoes": [
+    "balancar",
+    "desabar",
+    "flutuar",
+    "parado",
+    "piscar",
+    "pulsar",
+    "tremer"
+   ],
+   "motivo": "",
+   "origem": "curado"
+  },
+  "alvo": {
+   "arquivo": "recursos/objeto/alvo.v1.json",
+   "tipo": "objeto",
+   "hash": "6a1c1d89d6413bbf",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "alvo",
+    "mira",
+    "objetivo"
+   ],
+   "nome": "Alvo",
+   "criado": "2026-11-18 09:08",
+   "animacoes": [
+    "balancar",
+    "flutuar",
+    "mirar",
+    "parado",
+    "piscar",
+    "pulsar",
+    "tremer"
+   ],
+   "motivo": "",
+   "origem": "curado"
+  },
+  "estudio_escuro": {
+   "arquivo": "recursos/cenario/estudio_escuro.v1.json",
+   "tipo": "cenario",
+   "hash": "128a0cd67fd09527",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "estudio",
+    "escuro",
+    "abstrato",
+    "minimalista"
+   ],
+   "nome": "Estudio minimalista escuro",
+   "criado": "2026-11-18 09:13",
+   "animacoes": [],
+   "motivo": "",
+   "origem": "ia"
+  },
+  "lampada_filamento": {
+   "arquivo": "recursos/objeto/lampada_filamento.v1.json",
+   "tipo": "objeto",
+   "hash": "a02393c1aec99593",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "lampada",
+    "energia",
+    "luz",
+    "incandescentes"
+   ],
+   "nome": "Lampada incandescentes de filamento",
+   "criado": "2026-11-18 09:13",
+   "animacoes": [
+    "apagar",
+    "balancar",
+    "flutuar",
+    "parado",
+    "piscar",
+    "pulsar",
+    "tremer"
+   ],
+   "motivo": "",
+   "origem": "ia"
+  },
+  "cruzamento_urbano": {
+   "arquivo": "recursos/cenario/cruzamento_urbano.v1.json",
+   "tipo": "cenario",
+   "hash": "1f709efbc92634e6",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "rua",
+    "cidade",
+    "escuro",
+    "cruzamento",
+    "urbano"
+   ],
+   "nome": "Cruzamento urbano no escuro",
+   "criado": "2026-11-18 09:17",
+   "animacoes": [],
+   "motivo": "",
+   "origem": "ia"
+  },
+  "semaforo_apagado": {
+   "arquivo": "recursos/objeto/semaforo_apagado.v1.json",
+   "tipo": "objeto",
+   "hash": "efa527c140c99990",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "semaforo",
+    "transito",
+    "cidade"
+   ],
+   "nome": "Semaforo de transito apagado",
+   "criado": "2026-11-18 09:19",
+   "animacoes": [
+    "balancar",
+    "flutuar",
+    "oscilacao_vento",
+    "parado",
+    "piscar",
+    "pulsar",
+    "tremer"
+   ],
+   "motivo": "",
+   "origem": "ia"
+  },
+  "antena_celular_fora": {
+   "arquivo": "recursos/objeto/antena_celular_fora.v1.json",
+   "tipo": "objeto",
+   "hash": "3542657bf735ea69",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "antena",
+    "sinal",
+    "celular",
+    "torre",
+    "telefonia"
+   ],
+   "nome": "Torre de telefonia sem sinal",
+   "criado": "2026-11-18 09:26",
+   "animacoes": [
+    "balancar",
+    "flutuar",
+    "parado",
+    "piscar",
+    "pulsar",
+    "sem_sinal_alerta",
+    "tremer"
+   ],
+   "motivo": "",
+   "origem": "ia"
+  },
+  "servidor_desligado": {
+   "arquivo": "recursos/objeto/servidor_desligado.v1.json",
+   "tipo": "objeto",
+   "hash": "410022aa5ccd430f",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "servidor",
+    "internet",
+    "dados",
+    "rack",
+    "servidores"
+   ],
+   "nome": "Rack de servidores desligados",
+   "criado": "2026-11-18 09:29",
+   "animacoes": [
+    "abrir_porta",
+    "balancar",
+    "balancar_cabos",
+    "flutuar",
+    "parado",
+    "piscar",
+    "pulsar",
+    "puxar_gaveta",
+    "tremer"
+   ],
+   "motivo": "",
+   "origem": "ia"
+  },
+  "subsolo_hospital": {
+   "arquivo": "recursos/cenario/subsolo_hospital.v1.json",
+   "tipo": "cenario",
+   "hash": "f1d4e8829021af7f",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "hospital",
+    "subsolo",
+    "emergencia"
+   ],
+   "nome": "Subsolo do hospital em emergencia",
+   "criado": "2026-11-18 09:32",
+   "animacoes": [],
+   "motivo": "",
+   "origem": "ia"
+  },
+  "gerador_hospitalar": {
+   "arquivo": "recursos/objeto/gerador_hospitalar.v1.json",
+   "tipo": "objeto",
+   "hash": "f075884d9ef2e731",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "gerador",
+    "hospital",
+    "energia",
+    "diesel"
+   ],
+   "nome": "Gerador diesel de grande porte",
+   "criado": "2026-11-18 09:34",
+   "animacoes": [
+    "balancar",
+    "flutuar",
+    "operacao_emergencia",
+    "parado",
+    "piscar",
+    "pulsar",
+    "tremer"
+   ],
+   "motivo": "",
+   "origem": "ia"
+  },
+  "cozinha_apartamento": {
+   "arquivo": "recursos/cenario/cozinha_apartamento.v1.json",
+   "tipo": "cenario",
+   "hash": "90a301ed61e43ba6",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "cozinha",
+    "apartamento",
+    "noite"
+   ],
+   "nome": "Cozinha de apartamento escuro",
+   "criado": "2026-11-18 09:39",
+   "animacoes": [],
+   "motivo": "",
+   "origem": "ia"
+  },
+  "torneira_gotejando": {
+   "arquivo": "recursos/objeto/torneira_gotejando.v1.json",
+   "tipo": "objeto",
+   "hash": "42f5a4d958b91df3",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "torneira",
+    "agua",
+    "seca",
+    "inox"
+   ],
+   "nome": "Torneira inox gotejando",
+   "criado": "2026-11-18 09:40",
+   "animacoes": [
+    "balancar",
+    "flutuar",
+    "gotejar",
+    "parado",
+    "piscar",
+    "pulsar",
+    "tremer"
+   ],
+   "motivo": "",
+   "origem": "ia"
+  },
+  "estacao_bombeamento": {
+   "arquivo": "recursos/objeto/estacao_bombeamento.v1.json",
+   "tipo": "objeto",
+   "hash": "fcf3333cc87eb0d3",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "bomba",
+    "agua",
+    "estacao",
+    "hidraulica"
+   ],
+   "nome": "Bomba hidraulica inativa",
+   "criado": "2026-11-18 09:41",
+   "animacoes": [
+    "balancar",
+    "flutuar",
+    "inativo",
+    "parado",
+    "piscar",
+    "pulsar",
+    "tremer"
+   ],
+   "motivo": "",
+   "origem": "ia"
+  },
+  "supermercado_escuro": {
+   "arquivo": "recursos/cenario/supermercado_escuro.v1.json",
+   "tipo": "cenario",
+   "hash": "d37c962cc750e29b",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "supermercado",
+    "corredor",
+    "escuro",
+    "corredores"
+   ],
+   "nome": "Corredores de supermercado no escuro",
+   "criado": "2026-11-18 09:42",
+   "animacoes": [],
+   "motivo": "",
+   "origem": "ia"
+  },
+  "prateleira_vazia": {
+   "arquivo": "recursos/objeto/prateleira_vazia.v1.json",
+   "tipo": "objeto",
+   "hash": "995a2409a7751a2e",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "prateleira",
+    "comida",
+    "vazio",
+    "prateleiras",
+    "desabastecidas"
+   ],
+   "nome": "Prateleiras desabastecidas",
+   "criado": "2026-11-18 09:44",
+   "animacoes": [
+    "balancar",
+    "desolacao",
+    "flutuar",
+    "parado",
+    "piscar",
+    "pulsar",
+    "tremer"
+   ],
+   "motivo": "",
+   "origem": "ia"
+  },
+  "carrinho_compras": {
+   "arquivo": "recursos/objeto/carrinho_compras.v1.json",
+   "tipo": "objeto",
+   "hash": "52fb0c12f1fdb411",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "carrinho",
+    "compras"
+   ],
+   "nome": "Carrinho de compras abandonado",
+   "criado": "2026-11-18 09:45",
+   "animacoes": [
+    "balancar",
+    "flutuar",
+    "impacto_inicial",
+    "parado",
+    "piscar",
+    "pulsar",
+    "tremer"
+   ],
+   "motivo": "",
+   "origem": "ia"
+  },
+  "cozinha_industrial": {
+   "arquivo": "recursos/cenario/cozinha_industrial.v1.json",
+   "tipo": "cenario",
+   "hash": "a5b62cf7db546609",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "camara fria",
+    "refrigerador",
+    "comercio",
+    "camara",
+    "fria"
+   ],
+   "nome": "Camara fria comercial",
+   "criado": "2026-11-18 09:47",
+   "animacoes": [],
+   "motivo": "",
+   "origem": "ia"
+  },
+  "refrigerador_comercial": {
+   "arquivo": "recursos/objeto/refrigerador_comercial.v1.json",
+   "tipo": "objeto",
+   "hash": "69fbf7dbda332b0a",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "refrigerador",
+    "geladeira",
+    "alimentos",
+    "comercial"
+   ],
+   "nome": "Refrigerador comercial com porta aberta",
+   "criado": "2026-11-18 09:48",
+   "animacoes": [
+    "balancar",
+    "flutuar",
+    "parado",
+    "piscar",
+    "pulsar",
+    "tremer"
+   ],
+   "motivo": "",
+   "origem": "ia"
+  },
+  "bomba_posto": {
+   "arquivo": "recursos/objeto/bomba_posto.v1.json",
+   "tipo": "objeto",
+   "hash": "7ab95d544d859cbb",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "posto",
+    "gasolina",
+    "bomba",
+    "combustivel"
+   ],
+   "nome": "Bomba de combustivel travada",
+   "criado": "2026-11-18 09:51",
+   "animacoes": [
+    "balancar",
+    "balanco_leve",
+    "flutuar",
+    "parado",
+    "piscar",
+    "pulsar",
+    "tremer"
+   ],
+   "motivo": "",
+   "origem": "ia"
+  },
+  "subestacao_eletrica": {
+   "arquivo": "recursos/cenario/subestacao_eletrica.v1.json",
+   "tipo": "cenario",
+   "hash": "b58727e88c3a71c4",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "subestacao",
+    "energia",
+    "campo",
+    "eletrica"
+   ],
+   "nome": "Subestacao eletrica ao anoitecer",
+   "criado": "2026-11-18 09:52",
+   "animacoes": [],
+   "motivo": "",
+   "origem": "ia"
+  },
+  "transformador_potencia": {
+   "arquivo": "recursos/objeto/transformador_potencia.v1.json",
+   "tipo": "objeto",
+   "hash": "5b47ccb3077e63ca",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "transformador",
+    "energia",
+    "subestacao",
+    "alta"
+   ],
+   "nome": "Transformador de alta tensao",
+   "criado": "2026-11-18 09:54",
+   "animacoes": [
+    "balancar",
+    "flutuar",
+    "operacao",
+    "parado",
+    "piscar",
+    "pulsar",
+    "tremer"
+   ],
+   "motivo": "",
+   "origem": "ia"
+  },
+  "torre_transmissao": {
+   "arquivo": "recursos/objeto/torre_transmissao.v1.json",
+   "tipo": "objeto",
+   "hash": "66b9c2c962360b2b",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "torre",
+    "linhas",
+    "energia",
+    "alta"
+   ],
+   "nome": "Torre de alta tensao",
+   "criado": "2026-11-18 09:55",
+   "animacoes": [
+    "balancar",
+    "flutuar",
+    "parado",
+    "piscar",
+    "pulsar",
+    "tremer"
+   ],
+   "motivo": "",
+   "origem": "ia"
+  },
+  "sala_controle_usina": {
+   "arquivo": "recursos/cenario/sala_controle_usina.v1.json",
+   "tipo": "cenario",
+   "hash": "eab7e63e28b9f792",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "usina",
+    "painel",
+    "controle",
+    "sala"
+   ],
+   "nome": "Sala de controle de usina eletrica",
+   "criado": "2026-11-18 09:56",
+   "animacoes": [],
+   "motivo": "",
+   "origem": "ia"
+  },
+  "painel_disjuntores": {
+   "arquivo": "recursos/objeto/painel_disjuntores.v1.json",
+   "tipo": "objeto",
+   "hash": "6411f665036fdc08",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "painel",
+    "disjuntor",
+    "religamento",
+    "chaves"
+   ],
+   "nome": "Painel de chaves e disjuntores",
+   "criado": "2026-11-18 10:06",
+   "animacoes": [
+    "balancar",
+    "flutuar",
+    "monitorar",
+    "parado",
+    "piscar",
+    "pulsar",
+    "religar",
+    "tremer"
+   ],
+   "motivo": "",
+   "origem": "ia"
+  },
+  "montanhas_linhas": {
+   "arquivo": "recursos/cenario/montanhas_linhas.v1.json",
+   "tipo": "cenario",
+   "hash": "3c6a593bf51d449f",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "montanhas",
+    "linhas",
+    "noite",
+    "vale"
+   ],
+   "nome": "Vale de montanhas com linhas de transmissao",
+   "criado": "2026-11-18 10:10",
+   "animacoes": [],
+   "motivo": "",
+   "origem": "ia"
+  },
+  "linha_transmissao_rede": {
+   "arquivo": "recursos/objeto/linha_transmissao_rede.v1.json",
+   "tipo": "objeto",
+   "hash": "f4ba1d36eb695b2a",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "rede",
+    "linhas",
+    "energia",
+    "linha",
+    "transmissao"
+   ],
+   "nome": "Linha de transmissao acendendo",
+   "criado": "2026-11-18 10:11",
+   "animacoes": [
+    "balancar",
+    "flutuar",
+    "parado",
+    "piscar",
+    "pulsar",
+    "reacender",
+    "tremer"
+   ],
+   "motivo": "",
+   "origem": "ia"
+  },
+  "laboratorio_global": {
+   "arquivo": "recursos/cenario/laboratorio_global.v1.json",
+   "tipo": "cenario",
+   "hash": "31646caad2bdee71",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "laboratorio",
+    "globo",
+    "futuro",
+    "infraestrutura"
+   ],
+   "nome": "Laboratorio de infraestrutura global",
+   "criado": "2026-11-18 10:12",
+   "animacoes": [],
+   "motivo": "",
+   "origem": "ia"
+  },
+  "globo_rede_eletrica": {
+   "arquivo": "recursos/objeto/globo_rede_eletrica.v1.json",
+   "tipo": "objeto",
+   "hash": "a964467be1d6de98",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "globo",
+    "mapa",
+    "rede",
+    "terrestre"
+   ],
+   "nome": "Globo terrestre holografico com rede eletrica",
+   "criado": "2026-11-18 10:13",
+   "animacoes": [
+    "balancar",
+    "flutuar",
+    "parado",
+    "piscar",
+    "pulsar",
+    "tremer"
+   ],
+   "motivo": "",
+   "origem": "ia"
+  },
+  "vela_acesa": {
+   "arquivo": "recursos/objeto/vela_acesa.v1.json",
+   "tipo": "objeto",
+   "hash": "4515bbf943f51dcc",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "vela",
+    "fogo",
+    "luz",
+    "acesa"
+   ],
+   "nome": "Vela acesa com chama oscilante",
+   "criado": "2026-11-18 10:14",
+   "animacoes": [
+    "balancar",
+    "flutuar",
+    "oscilar",
+    "parado",
+    "piscar",
+    "pulsar",
+    "tremer"
+   ],
+   "motivo": "",
+   "origem": "ia"
+  },
+  "cenario_cidade_apagado": {
+   "arquivo": "recursos/cenario/cenario_cidade_apagado.v1.json",
+   "tipo": "cenario",
+   "hash": "a208418fe7634234",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "cidade",
+    "apagado",
+    "cenario"
+   ],
+   "nome": "Cenario cidade",
+   "criado": "2026-11-18 11:49",
+   "animacoes": [],
+   "motivo": "",
+   "origem": "procedural"
+  },
+  "energia": {
+   "arquivo": "recursos/objeto/energia.v1.json",
+   "tipo": "objeto",
+   "hash": "3561b846645df832",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "eletricidade",
+    "eletric",
+    "energia"
+   ],
+   "nome": "Energia",
+   "criado": "2026-11-18 11:49",
+   "animacoes": [
+    "balancar",
+    "flutuar",
+    "parado",
+    "piscar",
+    "pulsar",
+    "tremer"
+   ],
+   "motivo": "",
+   "origem": "ia"
+  },
+  "cenario_cidade_alerta": {
+   "arquivo": "recursos/cenario/cenario_cidade_alerta.v1.json",
+   "tipo": "cenario",
+   "hash": "2c7baeac3915ab31",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "cidade",
+    "alerta",
+    "cenario"
+   ],
+   "nome": "Cenario cidade",
+   "criado": "2026-11-18 11:51",
+   "animacoes": [],
+   "motivo": "",
+   "origem": "ia"
+  },
+  "sinal": {
+   "arquivo": "recursos/objeto/sinal.v1.json",
+   "tipo": "objeto",
+   "hash": "3b62d2a8a9454d0d",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "redes",
+    "rede",
+    "sinal"
+   ],
+   "nome": "Sinal",
+   "criado": "2026-11-18 11:52",
+   "animacoes": [
+    "balancar",
+    "flutuar",
+    "oscilar",
+    "parado",
+    "piscar",
+    "pulsar",
+    "tremer"
+   ],
+   "motivo": "",
+   "origem": "ia"
+  },
+  "gerador": {
+   "arquivo": "recursos/objeto/gerador.v1.json",
+   "tipo": "objeto",
+   "hash": "9394820b7b596b16",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "geradores",
+    "gerador"
+   ],
+   "nome": "Gerador",
+   "criado": "2026-11-18 11:53",
+   "animacoes": [
+    "balancar",
+    "flutuar",
+    "girar_motor",
+    "parado",
+    "piscar",
+    "pulsar",
+    "tremer"
+   ],
+   "motivo": "",
+   "origem": "ia"
+  },
+  "grafico": {
+   "arquivo": "recursos/objeto/grafico.v1.json",
+   "tipo": "objeto",
+   "hash": "f7fc2a957326cb5a",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "mercados",
+    "grafico",
+    "queda",
+    "recessao",
+    "crise",
+    "mercado",
+    "bolsa"
+   ],
+   "nome": "Grafico em queda",
+   "criado": "2026-11-18 11:55",
+   "animacoes": [
+    "balancar",
+    "flutuar",
+    "parado",
+    "piscar",
+    "pulsar",
+    "tremer"
+   ],
+   "motivo": "",
+   "origem": "ia"
+  },
+  "quintal_residencial": {
+   "arquivo": "recursos/cenario/quintal_residencial.v1.json",
+   "tipo": "cenario",
+   "hash": "350d66b28a203407",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "quintal",
+    "casa",
+    "gramado",
+    "ouro",
+    "residencial"
+   ],
+   "nome": "Quintal residencial com gramado recém-cavado",
+   "criado": "2026-11-18 16:52",
+   "animacoes": [],
+   "motivo": "",
+   "origem": "procedural"
+  },
+  "pepita_ouro_surgindo": {
+   "arquivo": "recursos/objeto/pepita_ouro_surgindo.v1.json",
+   "tipo": "objeto",
+   "hash": "b2d92cad0bbb04fc",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "ouro",
+    "pepita",
+    "jazida",
+    "descoberta",
+    "bruta"
+   ],
+   "nome": "Pepita bruta de ouro emergindo da terra",
+   "criado": "2026-11-18 16:55",
+   "animacoes": [
+    "balancar",
+    "flutuar",
+    "parado",
+    "piscar",
+    "pulsar",
+    "tremer"
+   ],
+   "motivo": "",
+   "origem": "procedural"
+  },
+  "pa_de_jardim": {
+   "arquivo": "recursos/objeto/pa_de_jardim.v1.json",
+   "tipo": "objeto",
+   "hash": "e78466b6001d3644",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "pá",
+    "escavação",
+    "quintal",
+    "jardim",
+    "largada"
+   ],
+   "nome": "Pá de jardim largada junto à escavação",
+   "criado": "2026-11-18 16:57",
+   "animacoes": [
+    "balancar",
+    "flutuar",
+    "parado",
+    "piscar",
+    "pulsar",
+    "tremer"
+   ],
+   "motivo": "",
+   "origem": "procedural"
+  },
+  "sala_mesa_madeira": {
+   "arquivo": "recursos/cenario/sala_mesa_madeira.v1.json",
+   "tipo": "cenario",
+   "hash": "c84f88c48336bb4d",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "sala",
+    "mesa",
+    "interior",
+    "noite",
+    "escura"
+   ],
+   "nome": "Sala escura com mesa de madeira",
+   "criado": "2026-11-18 17:00",
+   "animacoes": [],
+   "motivo": "",
+   "origem": "procedural"
+  },
+  "proprietario_quintal": {
+   "arquivo": "recursos/personagem/proprietario_quintal.v1.json",
+   "tipo": "personagem",
+   "hash": "79d4888140fc45f5",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "proprietário",
+    "morador",
+    "adulto",
+    "quintal",
+    "proprietario",
+    "surpreso"
+   ],
+   "nome": "Proprietário surpreso diante da descoberta",
+   "criado": "2026-11-18 17:03",
+   "animacoes": [
+    "balancar",
+    "flutuar",
+    "parado",
+    "piscar",
+    "pulsar",
+    "tremer"
+   ],
+   "motivo": "",
+   "origem": "procedural"
+  },
+  "quintal_residencial_tarde": {
+   "arquivo": "recursos/cenario/quintal_residencial_tarde.v1.json",
+   "tipo": "cenario",
+   "hash": "ebf48e025a36b872",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "quintal",
+    "casa",
+    "grama",
+    "tarde",
+    "residencial"
+   ],
+   "nome": "Quintal residencial ensolarado",
+   "criado": "2026-11-19 08:26",
+   "animacoes": [],
+   "motivo": "",
+   "origem": "ia"
+  },
+  "pepita_ouro_bruta": {
+   "arquivo": "recursos/objeto/pepita_ouro_bruta.v1.json",
+   "tipo": "objeto",
+   "hash": "cf2298bc8ce5cfc3",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "ouro",
+    "pedra",
+    "brilho",
+    "quintal",
+    "pepita"
+   ],
+   "nome": "Pepita de ouro gigante",
+   "criado": "2026-11-19 08:26",
+   "animacoes": [
+    "balancar",
+    "emergir_e_brilhar",
+    "flutuar",
+    "parado",
+    "piscar",
+    "pulsar",
+    "tremer"
+   ],
+   "motivo": "",
+   "origem": "ia"
+  },
+  "pa_jardinagem": {
+   "arquivo": "recursos/objeto/pa_jardinagem.v1.json",
+   "tipo": "objeto",
+   "hash": "d83efa61c4b7049a",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "pa",
+    "ferramenta",
+    "terra",
+    "jardinagem",
+    "cravada"
+   ],
+   "nome": "Pá de jardinagem cravada na terra",
+   "criado": "2026-11-19 08:26",
+   "animacoes": [
+    "balancar",
+    "flutuar",
+    "oscilar",
+    "parado",
+    "piscar",
+    "pulsar",
+    "tremer"
+   ],
+   "motivo": "",
+   "origem": "ia"
+  },
+  "monte_pepitas_mesa": {
+   "arquivo": "recursos/objeto/monte_pepitas_mesa.v1.json",
+   "tipo": "objeto",
+   "hash": "94d818c18f91ec6a",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "ouro",
+    "riqueza",
+    "mesa",
+    "brilho",
+    "pilha",
+    "pepitas"
+   ],
+   "nome": "Pilha de pepitas de ouro em mesa de madeira",
+   "criado": "2026-11-19 08:26",
+   "animacoes": [
+    "balancar",
+    "flutuar",
+    "flutuar_topo",
+    "parado",
+    "piscar",
+    "pulsar",
+    "pulsar_brilho",
+    "tremer"
+   ],
+   "motivo": "",
+   "origem": "ia"
+  },
+  "buraco_iluminado_grama": {
+   "arquivo": "recursos/objeto/buraco_iluminado_grama.v1.json",
+   "tipo": "objeto",
+   "hash": "bd86f033af27fb1d",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "buraco",
+    "grama",
+    "ouro",
+    "quintal",
+    "brilhante"
+   ],
+   "nome": "Buraco brilhante na grama",
+   "criado": "2026-11-19 08:26",
+   "animacoes": [
+    "balancar",
+    "flutuar",
+    "parado",
+    "piscar",
+    "pulsar",
+    "tremer"
+   ],
+   "motivo": "",
+   "origem": "ia"
+  },
+  "corte_subsolo_casa": {
+   "arquivo": "recursos/objeto/corte_subsolo_casa.v1.json",
+   "tipo": "objeto",
+   "hash": "5e09ed70bbcd38d0",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "subsolo",
+    "terra",
+    "camadas",
+    "mineral",
+    "corte",
+    "transversal"
+   ],
+   "nome": "Corte transversal de solo com veia mineral",
+   "criado": "2026-11-19 08:27",
+   "animacoes": [
+    "balancar",
+    "flutuar",
+    "operacao",
+    "parado",
+    "piscar",
+    "pulsar",
+    "tremer"
+   ],
+   "motivo": "",
+   "origem": "ia"
+  },
+  "selo_governamental_ouro": {
+   "arquivo": "recursos/objeto/selo_governamental_ouro.v1.json",
+   "tipo": "objeto",
+   "hash": "608d4cd62cb0fee4",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "selo",
+    "governo",
+    "lei",
+    "ouro",
+    "oficial"
+   ],
+   "nome": "Selo oficial dourado em relevo",
+   "criado": "2026-11-19 08:27",
+   "animacoes": [
+    "balancar",
+    "flutuar",
+    "parado",
+    "piscar",
+    "pulsar",
+    "tremer"
+   ],
+   "motivo": "",
+   "origem": "ia"
+  },
+  "pa_cortando_terra_ouro": {
+   "arquivo": "recursos/objeto/pa_cortando_terra_ouro.v1.json",
+   "tipo": "objeto",
+   "hash": "6ddf7184149e40ed",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "pa",
+    "escavar",
+    "terra",
+    "ouro",
+    "pesada",
+    "cortando"
+   ],
+   "nome": "Pá pesada cortando terra com faíscas",
+   "criado": "2026-11-19 08:27",
+   "animacoes": [
+    "balancar",
+    "flutuar",
+    "impacto",
+    "parado",
+    "piscar",
+    "pulsar",
+    "tremer"
+   ],
+   "motivo": "",
+   "origem": "ia"
+  },
+  "algemas_metalicas": {
+   "arquivo": "recursos/objeto/algemas_metalicas.v1.json",
+   "tipo": "objeto",
+   "hash": "f6f2033c79e6cf51",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "algemas",
+    "crime",
+    "prisao",
+    "policia",
+    "par"
+   ],
+   "nome": "Par de algemas metálicas brilhantes",
+   "criado": "2026-11-19 08:27",
+   "animacoes": [
+    "balancar",
+    "chacoalhar",
+    "flutuar",
+    "parado",
+    "piscar",
+    "pulsar",
+    "tremer"
+   ],
+   "motivo": "",
+   "origem": "ia"
+  },
+  "predio_governo_moderno": {
+   "arquivo": "recursos/objeto/predio_governo_moderno.v1.json",
+   "tipo": "objeto",
+   "hash": "e48dba81156ec51f",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "predio",
+    "governo",
+    "agencia",
+    "brasilia",
+    "edificio",
+    "governamental"
+   ],
+   "nome": "Edifício governamental moderno",
+   "criado": "2026-11-19 08:27",
+   "animacoes": [
+    "abrir",
+    "balancar",
+    "flutuar",
+    "parado",
+    "piscar",
+    "pulsar",
+    "sinalizar",
+    "tremer"
+   ],
+   "motivo": "",
+   "origem": "ia"
+  },
+  "documento_oficial_caneta": {
+   "arquivo": "recursos/objeto/documento_oficial_caneta.v1.json",
+   "tipo": "objeto",
+   "hash": "f5dddc96cc9a781a",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "documento",
+    "licenca",
+    "papel",
+    "assinatura",
+    "oficial"
+   ],
+   "nome": "Documento oficial com caneta-tinteiro",
+   "criado": "2026-11-19 08:28",
+   "animacoes": [
+    "assinar",
+    "balancar",
+    "flutuar",
+    "parado",
+    "piscar",
+    "pulsar",
+    "tremer"
+   ],
+   "motivo": "",
+   "origem": "ia"
+  },
+  "pilha_moedas_douradas_mapa": {
+   "arquivo": "recursos/objeto/pilha_moedas_douradas_mapa.v1.json",
+   "tipo": "objeto",
+   "hash": "c4dade4c631711cc",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "moedas",
+    "lucro",
+    "mapa",
+    "proprietario",
+    "douradas"
+   ],
+   "nome": "Moedas douradas sobre mapa de propriedade",
+   "criado": "2026-11-19 08:28",
+   "animacoes": [
+    "balancar",
+    "flutuar",
+    "flutuar_moedas",
+    "parado",
+    "piscar",
+    "pulsar",
+    "pulsar_brilho",
+    "tremer"
+   ],
+   "motivo": "",
+   "origem": "ia"
+  },
+  "fita_isolamento_policial": {
+   "arquivo": "recursos/objeto/fita_isolamento_policial.v1.json",
+   "tipo": "objeto",
+   "hash": "f67f6bd263b08832",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "fita",
+    "isolamento",
+    "policia",
+    "crime"
+   ],
+   "nome": "Fita de isolamento policial amarela",
+   "criado": "2026-11-19 08:28",
+   "animacoes": [
+    "balancar",
+    "flutuar",
+    "parado",
+    "piscar",
+    "pulsar",
+    "tremer",
+    "ventania"
+   ],
+   "motivo": "",
+   "origem": "ia"
+  },
+  "bau_tesouro_aberto_ouro": {
+   "arquivo": "recursos/objeto/bau_tesouro_aberto_ouro.v1.json",
+   "tipo": "objeto",
+   "hash": "dd8620f2285a5409",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "bau",
+    "tesouro",
+    "ouro",
+    "escolha",
+    "madeira"
+   ],
+   "nome": "Baú de madeira com tesouro brilhante",
+   "criado": "2026-11-19 08:28",
+   "animacoes": [
+    "abrir",
+    "balancar",
+    "flutuar",
+    "parado",
+    "piscar",
+    "pulsar",
+    "tremer"
+   ],
+   "motivo": "",
+   "origem": "ia"
+  },
+  "costa_maritima_noite": {
+   "arquivo": "recursos/cenario/costa_maritima_noite.v1.json",
+   "tipo": "cenario",
+   "hash": "4846834182b4b532",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "oceano",
+    "costa",
+    "noite",
+    "agua",
+    "praia",
+    "maritima"
+   ],
+   "nome": "Costa marítima sob luar",
+   "criado": "2026-11-19 09:27",
+   "animacoes": [],
+   "motivo": "",
+   "origem": "ia"
+  },
+  "globo_terrestre_oceano": {
+   "arquivo": "recursos/objeto/globo_terrestre_oceano.v1.json",
+   "tipo": "objeto",
+   "hash": "f2bc2ebffff820b3",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "globo",
+    "terra",
+    "oceano",
+    "planeta",
+    "agua",
+    "terrestre"
+   ],
+   "nome": "Globo terrestre holográfico destacando o oceano",
+   "criado": "2026-11-19 09:27",
+   "animacoes": [
+    "balancar",
+    "flutuar",
+    "parado",
+    "piscar",
+    "pulsar",
+    "pulso_brilho",
+    "tremer"
+   ],
+   "motivo": "",
+   "origem": "ia"
+  },
+  "onda_gigante_costa": {
+   "arquivo": "recursos/objeto/onda_gigante_costa.v1.json",
+   "tipo": "objeto",
+   "hash": "b7693d966021fef6",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "onda",
+    "mare",
+    "agua",
+    "costa",
+    "mar"
+   ],
+   "nome": "Onda de maré alta volumosa",
+   "criado": "2026-11-19 09:28",
+   "animacoes": [
+    "avancar_onda",
+    "balancar",
+    "flutuar",
+    "parado",
+    "piscar",
+    "pulsar",
+    "tremer"
+   ],
+   "motivo": "",
+   "origem": "ia"
+  },
+  "regua_marinha_graduada": {
+   "arquivo": "recursos/objeto/regua_marinha_graduada.v1.json",
+   "tipo": "objeto",
+   "hash": "18b10ea727ec504e",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "regua",
+    "mare",
+    "medicao",
+    "nivel",
+    "altura"
+   ],
+   "nome": "Régua de maré com marcação milimétrica",
+   "criado": "2026-11-19 09:28",
+   "animacoes": [
+    "balancar",
+    "flutuar",
+    "parado",
+    "piscar",
+    "pulsar",
+    "subir_mare",
+    "tremer"
+   ],
+   "motivo": "",
+   "origem": "ia"
+  },
+  "muro_contensao_transbordando": {
+   "arquivo": "recursos/objeto/muro_contensao_transbordando.v1.json",
+   "tipo": "objeto",
+   "hash": "c14e828a66f4e066",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "muro",
+    "agua",
+    "inundacao",
+    "barreira",
+    "costa",
+    "contencao"
+   ],
+   "nome": "Muro de contenção costeira com água transbordando",
+   "criado": "2026-11-19 09:28",
+   "animacoes": [
+    "balancar",
+    "flutuar",
+    "parado",
+    "piscar",
+    "pulsar",
+    "transbordo",
+    "tremer"
+   ],
+   "motivo": "",
+   "origem": "ia"
+  },
+  "cidade_litoral_noite": {
+   "arquivo": "recursos/cenario/cidade_litoral_noite.v1.json",
+   "tipo": "cenario",
+   "hash": "c4da3a0d56dbc9c3",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "cidade",
+    "litoral",
+    "predios",
+    "rua",
+    "noite",
+    "litoranea"
+   ],
+   "nome": "Cidade litorânea estilizada à noite",
+   "criado": "2026-11-19 09:29",
+   "animacoes": [],
+   "motivo": "",
+   "origem": "ia"
+  },
+  "mapa_cidade_costeira": {
+   "arquivo": "recursos/objeto/mapa_cidade_costeira.v1.json",
+   "tipo": "objeto",
+   "hash": "40d37a19d18faed2",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "mapa",
+    "cidade",
+    "costa",
+    "urbanismo",
+    "terreno",
+    "vetorial"
+   ],
+   "nome": "Mapa vetorial 3D de cidade costeira",
+   "criado": "2026-11-19 09:29",
+   "animacoes": [
+    "balancar",
+    "escanear",
+    "flutuar",
+    "parado",
+    "piscar",
+    "pulsar",
+    "tremer"
+   ],
+   "motivo": "",
+   "origem": "ia"
+  },
+  "corte_terreno_costeiro": {
+   "arquivo": "recursos/objeto/corte_terreno_costeiro.v1.json",
+   "tipo": "objeto",
+   "hash": "a9ef0fd63a12a2f9",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "terreno",
+    "corte",
+    "dunas",
+    "barreira",
+    "geografia",
+    "transversal"
+   ],
+   "nome": "Corte transversal de terreno costeiro com dunas e barreiras",
+   "criado": "2026-11-19 09:29",
+   "animacoes": [
+    "ativar",
+    "balancar",
+    "flutuar",
+    "parado",
+    "piscar",
+    "pulsar",
+    "tremer"
+   ],
+   "motivo": "",
+   "origem": "ia"
+  },
+  "bloco_terreno_movimento": {
+   "arquivo": "recursos/objeto/bloco_terreno_movimento.v1.json",
+   "tipo": "objeto",
+   "hash": "945949157c8e9820",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "terreno",
+    "subsidencia",
+    "solo",
+    "movimento",
+    "geologia",
+    "bloco"
+   ],
+   "nome": "Bloco de terreno costeiro com setas de movimento vertical",
+   "criado": "2026-11-19 09:29",
+   "animacoes": [
+    "balancar",
+    "flutuar",
+    "parado",
+    "piscar",
+    "pulsar",
+    "tremer"
+   ],
+   "motivo": "",
+   "origem": "ia"
+  },
+  "globo_terrestre_holografico_regioes": {
+   "arquivo": "recursos/objeto/globo_terrestre_holografico_regioes.v1.json",
+   "tipo": "objeto",
+   "hash": "2b0bbd4f913c9d82",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "globo",
+    "regioes",
+    "comparacao",
+    "planeta",
+    "dados",
+    "holografico"
+   ],
+   "nome": "Globo holográfico com divisões regionais iluminadas",
+   "criado": "2026-11-19 09:29",
+   "animacoes": [
+    "balancar",
+    "flutuar",
+    "girar_globo",
+    "parado",
+    "piscar",
+    "pulsar",
+    "tremer"
+   ],
+   "motivo": "",
+   "origem": "ia"
+  },
+  "relogio_gradual_fluido": {
+   "arquivo": "recursos/objeto/relogio_gradual_fluido.v1.json",
+   "tipo": "objeto",
+   "hash": "aa31746cc019955b",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "relogio",
+    "tempo",
+    "gradual",
+    "cronometro",
+    "mudanca",
+    "estilizado"
+   ],
+   "nome": "Relógio estilizado com ponteiro de transição suave",
+   "criado": "2026-11-19 09:30",
+   "animacoes": [
+    "balancar",
+    "fluir",
+    "flutuar",
+    "parado",
+    "piscar",
+    "pulsar",
+    "tremer"
+   ],
+   "motivo": "",
+   "origem": "ia"
+  },
+  "escudo_protecao_costeira": {
+   "arquivo": "recursos/objeto/escudo_protecao_costeira.v1.json",
+   "tipo": "objeto",
+   "hash": "780919039feeb159",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "escudo",
+    "protecao",
+    "planejamento",
+    "defesa",
+    "tecnologia",
+    "holografico"
+   ],
+   "nome": "Escudo holográfico de proteção sobre costa fortificada",
+   "criado": "2026-11-19 09:30",
+   "animacoes": [
+    "balancar",
+    "flutuar",
+    "parado",
+    "piscar",
+    "pulsar",
+    "tremer"
+   ],
+   "motivo": "",
+   "origem": "ia"
+  },
+  "bifurcacao_escolha_costeira": {
+   "arquivo": "recursos/objeto/bifurcacao_escolha_costeira.v1.json",
+   "tipo": "objeto",
+   "hash": "5165ef186711f587",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "escolha",
+    "bifurcacao",
+    "painel",
+    "decisao",
+    "futuro",
+    "holografico"
+   ],
+   "nome": "Painel holográfico de escolha entre duas vias de proteção",
+   "criado": "2026-11-19 09:30",
+   "animacoes": [
+    "balancar",
+    "flutuar",
+    "parado",
+    "piscar",
+    "pulsar",
+    "tremer"
+   ],
+   "motivo": "",
+   "origem": "ia"
+  },
+  "cenario_espaco_sol_terra": {
+   "arquivo": "recursos/cenario/cenario_espaco_sol_terra.v1.json",
+   "tipo": "cenario",
+   "hash": "5591123b4e6d01ad",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "espaço",
+    "cosmos",
+    "sol",
+    "terra",
+    "estrelas",
+    "espaco",
+    "profundo"
+   ],
+   "nome": "Espaço profundo com estrelas e contraste solar",
+   "criado": "2026-11-19 11:23",
+   "animacoes": [],
+   "motivo": "",
+   "origem": "procedural"
+  },
+  "sol_detalhado": {
+   "arquivo": "recursos/objeto/sol_detalhado.v1.json",
+   "tipo": "objeto",
+   "hash": "245631ce591c3be0",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "sol",
+    "estrela",
+    "esfera solar",
+    "calor",
+    "colossal"
+   ],
+   "nome": "Sol colossal em close cinematográfico",
+   "criado": "2026-11-19 11:25",
+   "animacoes": [
+    "balancar",
+    "flutuar",
+    "parado",
+    "piscar",
+    "pulsar",
+    "tremer"
+   ],
+   "motivo": "",
+   "origem": "ia"
+  },
+  "terra_detalhada": {
+   "arquivo": "recursos/objeto/terra_detalhada.v1.json",
+   "tipo": "objeto",
+   "hash": "15b89aefc0f4960b",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "terra",
+    "planeta",
+    "globo",
+    "continentes",
+    "azul"
+   ],
+   "nome": "Terra azul vista do espaço",
+   "criado": "2026-11-19 11:28",
+   "animacoes": [
+    "balancar",
+    "deriva_nuvens",
+    "flutuar",
+    "parado",
+    "piscar",
+    "pulsar",
+    "tremer"
+   ],
+   "motivo": "",
+   "origem": "ia"
+  },
+  "raios_solares_convergentes": {
+   "arquivo": "recursos/objeto/raios_solares_convergentes.v1.json",
+   "tipo": "objeto",
+   "hash": "1a23f27e22d3e41c",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "raios solares",
+    "luz",
+    "irradiância",
+    "energia solar",
+    "feixes"
+   ],
+   "nome": "Feixes de luz solar concentrados sobre a Terra",
+   "criado": "2026-11-19 11:33",
+   "animacoes": [
+    "balancar",
+    "flutuar",
+    "parado",
+    "piscar",
+    "pulsar",
+    "tremer"
+   ],
+   "motivo": "",
+   "origem": "procedural"
+  },
+  "espaco_profundo_infografico": {
+   "arquivo": "recursos/cenario/espaco_profundo_infografico.v1.json",
+   "tipo": "cenario",
+   "hash": "ee84220a23cbb945",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "espaço",
+    "cosmos",
+    "estrelas",
+    "órbita",
+    "espaco",
+    "profundo"
+   ],
+   "nome": "Espaço profundo infográfico",
+   "criado": "2026-11-19 13:19",
+   "animacoes": [],
+   "motivo": "",
+   "origem": "procedural"
+  },
+  "marcador_aproximacao_orbital": {
+   "arquivo": "recursos/objeto/marcador_aproximacao_orbital.v1.json",
+   "tipo": "objeto",
+   "hash": "5f45709228a9624d",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "aproximação",
+    "distância",
+    "seta",
+    "1 km por dia",
+    "órbita",
+    "marcador",
+    "orbital"
+   ],
+   "nome": "Marcador orbital de aproximação diária",
+   "criado": "2026-11-19 13:20",
+   "animacoes": [
+    "aproximacao_diaria",
+    "balancar",
+    "flutuar",
+    "parado",
+    "piscar",
+    "pulsar",
+    "tremer"
+   ],
+   "motivo": "",
+   "origem": "ia"
+  },
+  "plenario_senado_noturno": {
+   "arquivo": "recursos/cenario/plenario_senado_noturno.v1.json",
+   "tipo": "cenario",
+   "hash": "c5f7e1b65eda7f18",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "senado",
+    "plenario",
+    "camara legislativa",
+    "eleicao",
+    "congresso"
+   ],
+   "nome": "Plenário do Senado em noite de eleição",
+   "criado": "2026-11-19 14:28",
+   "animacoes": [],
+   "motivo": "",
+   "origem": "ia"
+  },
+  "cadeira_presidencia_senado": {
+   "arquivo": "recursos/objeto/cadeira_presidencia_senado.v1.json",
+   "tipo": "objeto",
+   "hash": "ca6a3bb1081f1224",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "cadeira",
+    "presidencia",
+    "senado",
+    "presidente",
+    "plenário",
+    "presidencial"
+   ],
+   "nome": "Cadeira presidencial do Senado",
+   "criado": "2026-11-19 14:29",
+   "animacoes": [
+    "balancar",
+    "flutuar",
+    "parado",
+    "piscar",
+    "pulsar",
+    "tremer"
+   ],
+   "motivo": "",
+   "origem": "ia"
+  },
+  "senador_votando": {
+   "arquivo": "recursos/personagem/senador_votando.v1.json",
+   "tipo": "personagem",
+   "hash": "f9aa8dcdb6f668a0",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "senador",
+    "voto",
+    "cedula",
+    "urna",
+    "eleicao",
+    "anonimo"
+   ],
+   "nome": "Senador anônimo depositando cédula",
+   "criado": "2026-11-19 14:30",
+   "animacoes": [
+    "balancar",
+    "caminhar",
+    "depositar",
+    "flutuar",
+    "parado",
+    "piscar",
+    "pulsar",
+    "tremer"
+   ],
+   "motivo": "",
+   "origem": "ia"
+  },
+  "urna_voto_secreto": {
+   "arquivo": "recursos/objeto/urna_voto_secreto.v1.json",
+   "tipo": "objeto",
+   "hash": "fd6b721bf5a150d5",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "urna",
+    "voto",
+    "eleicao",
+    "secreto",
+    "cedula",
+    "fechada"
+   ],
+   "nome": "Urna fechada para votação secreta",
+   "criado": "2026-11-19 14:30",
+   "animacoes": [
+    "balancar",
+    "flutuar",
+    "inserir_cedula",
+    "parado",
+    "piscar",
+    "pulsar",
+    "tremer"
+   ],
+   "motivo": "",
+   "origem": "ia"
+  },
+  "bancadas_votacao_senado": {
+   "arquivo": "recursos/objeto/bancadas_votacao_senado.v1.json",
+   "tipo": "objeto",
+   "hash": "aff95639a4be7d95",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "bancadas",
+    "senadores",
+    "senado",
+    "plenario",
+    "votacao"
+   ],
+   "nome": "Bancadas de votação dos senadores",
+   "criado": "2026-11-19 14:32",
+   "animacoes": [
+    "balancar",
+    "flutuar",
+    "parado",
+    "piscar",
+    "pulsar",
+    "tremer"
+   ],
+   "motivo": "",
+   "origem": "ia"
+  },
+  "ampulheta_dois_anos": {
+   "arquivo": "recursos/objeto/ampulheta_dois_anos.v1.json",
+   "tipo": "objeto",
+   "hash": "6b8b249026e0a1fb",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "ampulheta",
+    "dois anos",
+    "mandato",
+    "tempo",
+    "presidencia",
+    "dourada"
+   ],
+   "nome": "Ampulheta dourada marcando um mandato de dois anos",
+   "criado": "2026-11-19 14:33",
+   "animacoes": [
+    "balancar",
+    "cair_areia",
+    "flutuar",
+    "parado",
+    "piscar",
+    "pulsar",
+    "tremer"
+   ],
+   "motivo": "",
+   "origem": "ia"
+  },
+  "mesa_diretora_senado": {
+   "arquivo": "recursos/objeto/mesa_diretora_senado.v1.json",
+   "tipo": "objeto",
+   "hash": "c7ac397322ec2a5f",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "mesa diretora",
+    "senado",
+    "eleicao",
+    "plenário",
+    "presidencia",
+    "mesa",
+    "diretora"
+   ],
+   "nome": "Mesa Diretora do Senado",
+   "criado": "2026-11-19 14:35",
+   "animacoes": [
+    "abrir",
+    "balancar",
+    "flutuar",
+    "parado",
+    "piscar",
+    "pulsar",
+    "tremer"
+   ],
+   "motivo": "",
+   "origem": "ia"
+  },
+  "cedula_branca_dobrada": {
+   "arquivo": "recursos/objeto/cedula_branca_dobrada.v1.json",
+   "tipo": "objeto",
+   "hash": "85f3e942a64f5c91",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "cedula",
+    "voto secreto",
+    "papel",
+    "urna",
+    "eleicao",
+    "eleitoral"
+   ],
+   "nome": "Cédula eleitoral branca e sem identificação",
+   "criado": "2026-11-19 14:36",
+   "animacoes": [
+    "balancar",
+    "flutuar",
+    "parado",
+    "piscar",
+    "pulsar",
+    "tremer"
+   ],
+   "motivo": "",
+   "origem": "ia"
+  },
+  "grupo_41_senadores": {
+   "arquivo": "recursos/objeto/grupo_41_senadores.v1.json",
+   "tipo": "objeto",
+   "hash": "755381142a92d6f3",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "senadores",
+    "quorum",
+    "presenca",
+    "41",
+    "votacao",
+    "reunidos"
+   ],
+   "nome": "Senadores reunidos em plenário para votar",
+   "criado": "2026-11-19 14:37",
+   "animacoes": [
+    "balancar",
+    "flutuar",
+    "parado",
+    "piscar",
+    "pulsar",
+    "pulsar_luzes",
+    "tremer"
+   ],
+   "motivo": "",
+   "origem": "ia"
+  },
+  "duas_pilhas_cedulas": {
+   "arquivo": "recursos/objeto/duas_pilhas_cedulas.v1.json",
+   "tipo": "objeto",
+   "hash": "eafabcd9358144ce",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "cedulas",
+    "dois candidatos",
+    "segundo escrutinio",
+    "votos",
+    "eleicao",
+    "duas",
+    "pilhas"
+   ],
+   "nome": "Duas pilhas de cédulas dos candidatos mais votados",
+   "criado": "2026-11-19 14:39",
+   "animacoes": [
+    "balancar",
+    "destaque_das_cedulas",
+    "flutuar",
+    "parado",
+    "piscar",
+    "pulsar",
+    "pulso_de_luz",
+    "tremer"
+   ],
+   "motivo": "",
+   "origem": "ia"
+  },
+  "calendario_eleicoes_mesa": {
+   "arquivo": "recursos/objeto/calendario_eleicoes_mesa.v1.json",
+   "tipo": "objeto",
+   "hash": "5f484ba3f8cf1f83",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "calendario",
+    "eleicao",
+    "mesa diretora",
+    "legislatura",
+    "reconducao",
+    "das"
+   ],
+   "nome": "Calendário das eleições da Mesa na mesma legislatura",
+   "criado": "2026-11-19 14:40",
+   "animacoes": [
+    "balancar",
+    "flutuar",
+    "parado",
+    "piscar",
+    "pulsar",
+    "tremer"
+   ],
+   "motivo": "",
+   "origem": "ia"
+  },
+  "parlamentares_em_sessao": {
+   "arquivo": "recursos/personagem/parlamentares_em_sessao.v1.json",
+   "tipo": "personagem",
+   "hash": "fb102d11ac0a6b83",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "parlamentares",
+    "sessao",
+    "senadores",
+    "congresso",
+    "plenario"
+   ],
+   "nome": "Parlamentares em sessão no plenário",
+   "criado": "2026-11-19 14:41",
+   "animacoes": [
+    "balancar",
+    "caminhar",
+    "discursar",
+    "flutuar",
+    "parado",
+    "piscar",
+    "pulsar",
+    "tremer"
+   ],
+   "motivo": "",
+   "origem": "ia"
+  },
+  "edificio_congresso_nacional": {
+   "arquivo": "recursos/objeto/edificio_congresso_nacional.v1.json",
+   "tipo": "objeto",
+   "hash": "0ce5f673474e1b70",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "congresso nacional",
+    "brasilia",
+    "camara",
+    "senado",
+    "edificio",
+    "congresso"
+   ],
+   "nome": "Edifício do Congresso Nacional em Brasília",
+   "criado": "2026-11-19 14:42",
+   "animacoes": [
+    "balancar",
+    "flutuar",
+    "parado",
+    "piscar",
+    "pulsar",
+    "tremer"
+   ],
+   "motivo": "",
+   "origem": "ia"
+  },
+  "orbita_baixa_terra": {
+   "arquivo": "recursos/cenario/orbita_baixa_terra.v1.json",
+   "tipo": "cenario",
+   "hash": "2b02d77bf99c8c26",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "espaço",
+    "Terra",
+    "atmosfera",
+    "órbita",
+    "noite",
+    "terra",
+    "vista"
+   ],
+   "nome": "Terra vista do espaço, com atmosfera e nuvens noturnas",
+   "criado": "2026-11-19 16:09",
+   "animacoes": [],
+   "motivo": "",
+   "origem": "procedural"
+  },
+  "fragmento_meteorito_solo": {
+   "arquivo": "recursos/objeto/fragmento_meteorito_solo.v1.json",
+   "tipo": "objeto",
+   "hash": "03e9503da1d08a94",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "meteorito",
+    "fragmento",
+    "rocha",
+    "solo",
+    "rochoso",
+    "explosao",
+    "bomba",
+    "ataque",
+    "detonacao",
+    "bombardeio"
+   ],
+   "nome": "Fragmento rochoso de meteorito chegando ao solo",
+   "criado": "2026-11-19 16:14",
+   "animacoes": [
+    "balancar",
+    "flutuar",
+    "parado",
+    "piscar",
+    "pulsar",
+    "tremer"
+   ],
+   "motivo": "",
+   "origem": "procedural"
+  },
+  "fragmentos_em_queda": {
+   "arquivo": "recursos/objeto/fragmentos_em_queda.v1.json",
+   "tipo": "objeto",
+   "hash": "e71dc5c6a798884b",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "fragmentação",
+    "explosão no ar",
+    "fragmentos",
+    "queda",
+    "meteoro",
+    "incandescentes",
+    "grafico",
+    "recessao",
+    "crise",
+    "mercado",
+    "bolsa"
+   ],
+   "nome": "Fragmentos incandescentes se separando acima do solo",
+   "criado": "2026-11-19 16:23",
+   "animacoes": [
+    "balancar",
+    "flutuar",
+    "parado",
+    "piscar",
+    "pulsar",
+    "tremer"
+   ],
+   "motivo": "",
+   "origem": "procedural"
+  },
+  "solo_alvo_impacto": {
+   "arquivo": "recursos/objeto/solo_alvo_impacto.v1.json",
+   "tipo": "objeto",
+   "hash": "f2dcc10bc1c91cb1",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "solo",
+    "impacto",
+    "terreno",
+    "cratera",
+    "trecho"
+   ],
+   "nome": "Trecho de solo rochoso aguardando o impacto",
+   "criado": "2026-11-19 16:25",
+   "animacoes": [
+    "balancar",
+    "flutuar",
+    "parado",
+    "piscar",
+    "pulsar",
+    "tremer"
+   ],
+   "motivo": "",
+   "origem": "procedural"
+  },
+  "paisagem_rochosa_brasil": {
+   "arquivo": "recursos/cenario/paisagem_rochosa_brasil.v1.json",
+   "tipo": "cenario",
+   "hash": "673c77eef317d6c2",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "paisagem",
+    "Brasil",
+    "terreno",
+    "impacto",
+    "entardecer",
+    "rochosa"
+   ],
+   "nome": "Paisagem rochosa brasileira vista de cima ao entardecer",
+   "criado": "2026-11-19 16:27",
+   "animacoes": [],
+   "motivo": "",
+   "origem": "procedural"
+  },
+  "cratera_recente": {
+   "arquivo": "recursos/objeto/cratera_recente.v1.json",
+   "tipo": "objeto",
+   "hash": "296b107756fc60fc",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "cratera",
+    "impacto",
+    "solo",
+    "rocha",
+    "danos locais"
+   ],
+   "nome": "Cratera de impacto recente em terreno rochoso",
+   "criado": "2026-11-19 16:29",
+   "animacoes": [
+    "balancar",
+    "flutuar",
+    "parado",
+    "piscar",
+    "pulsar",
+    "tremer"
+   ],
+   "motivo": "",
+   "origem": "procedural"
+  },
+  "vista_aerea_brasil": {
+   "arquivo": "recursos/cenario/vista_aerea_brasil.v1.json",
+   "tipo": "cenario",
+   "hash": "8c919c2abe93de7b",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "Brasil",
+    "mapa",
+    "cidade",
+    "floresta",
+    "litoral",
+    "oceano",
+    "vista",
+    "aerea"
+   ],
+   "nome": "Vista aérea estilizada do Brasil entre cidade, mata e oceano",
+   "criado": "2026-11-19 16:36",
+   "animacoes": [],
+   "motivo": "",
+   "origem": "procedural"
+  },
+  "mapa_brasil_pontos_impacto": {
+   "arquivo": "recursos/objeto/mapa_brasil_pontos_impacto.v1.json",
+   "tipo": "objeto",
+   "hash": "a105247ad8477249",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "mapa do Brasil",
+    "impacto",
+    "cidade",
+    "área remota",
+    "mar",
+    "mapa",
+    "brasil",
+    "territorio",
+    "fronteira",
+    "estrategia",
+    "regiao"
+   ],
+   "nome": "Mapa do Brasil com três possíveis zonas de impacto",
+   "criado": "2026-11-19 16:38",
+   "animacoes": [
+    "balancar",
+    "flutuar",
+    "parado",
+    "piscar",
+    "pulsar",
+    "tremer"
+   ],
+   "motivo": "",
+   "origem": "procedural"
+  },
+  "espaco_globo_terra": {
+   "arquivo": "recursos/cenario/espaco_globo_terra.v1.json",
+   "tipo": "cenario",
+   "hash": "2d1189fb46f6cdbe",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "espaço",
+    "Terra",
+    "globo",
+    "órbita",
+    "noite",
+    "terra",
+    "destaque"
+   ],
+   "nome": "Terra em destaque no espaço profundo",
+   "criado": "2026-11-19 16:42",
+   "animacoes": [],
+   "motivo": "",
+   "origem": "procedural"
+  },
+  "cenario_cidade_noite": {
+   "arquivo": "recursos/cenario/cenario_cidade_noite.v1.json",
+   "tipo": "cenario",
+   "hash": "d8128e7fea22250a",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "cidade",
+    "noite",
+    "cenario"
+   ],
+   "nome": "Cenario cidade",
+   "criado": "2026-11-19 17:14",
+   "animacoes": [],
+   "motivo": "",
+   "origem": "procedural"
+  },
+  "dinheiro": {
+   "arquivo": "recursos/objeto/dinheiro.v1.json",
+   "tipo": "objeto",
+   "hash": "cdef1540a0c3baea",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "dinheiro",
+    "economia",
+    "moeda",
+    "orcamento",
+    "custo",
+    "pib",
+    "preco",
+    "inflacao"
+   ],
+   "nome": "Dinheiro",
+   "criado": "2026-11-19 17:14",
+   "animacoes": [
+    "balancar",
+    "flutuar",
+    "parado",
+    "piscar",
+    "pulsar",
+    "tremer"
+   ],
+   "motivo": "",
+   "origem": "procedural"
+  },
+  "cadeado": {
+   "arquivo": "recursos/objeto/cadeado.v1.json",
+   "tipo": "objeto",
+   "hash": "cb53d539c8918519",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "banco",
+    "cadeado"
+   ],
+   "nome": "Cadeado",
+   "criado": "2026-11-19 17:14",
+   "animacoes": [
+    "balancar",
+    "flutuar",
+    "parado",
+    "piscar",
+    "pulsar",
+    "tremer"
+   ],
+   "motivo": "",
+   "origem": "procedural"
+  },
+  "celular": {
+   "arquivo": "recursos/objeto/celular.v1.json",
+   "tipo": "objeto",
+   "hash": "a60909ec0d608f4a",
+   "versao": 1,
+   "status": "aprovado",
+   "tags": [
+    "smartphone",
+    "celular"
+   ],
+   "nome": "Celular",
+   "criado": "2026-11-19 17:14",
+   "animacoes": [
+    "balancar",
+    "flutuar",
+    "parado",
+    "piscar",
+    "pulsar",
+    "tremer"
+   ],
+   "motivo": "",
+   "origem": "procedural"
+  }
+ }
+}
